@@ -1,6 +1,13 @@
-# weatherapp
+# flutter weather app ⛈
 
-A new Flutter project.
+A Sample Weather Flutter project.
+
+
+![Screenshot_٢٠٢٤-٠٢-٢٧-١٧-١٩-٥٠-٤٥٧_com example weatherapp](https://github.com/mohammedsaleh123/weatherapp/assets/145376248/5e37af88-4669-4155-9345-bcd11bd1f6fd)
+
+
+![Screenshot_٢٠٢٤-٠٢-٢٧-١٧-١٩-٥٨-٨٧٦_com example weatherapp](https://github.com/mohammedsaleh123/weatherapp/assets/145376248/fa10eddf-ca97-48f5-8d91-5cb5a418566a)
+
 
 ## Getting Started
 
